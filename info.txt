@@ -1,2 +1,3 @@
 Name: nana
 No: 0200004987
+Address: Oda
